@@ -1,0 +1,5 @@
+../Core/Src/FLASH.c:24:10:Flash_Write_Data	40	static
+../Core/Src/FLASH.c:59:6:Flash_Read_Data	24	static
+../Core/Src/FLASH.c:71:10:Flash_Erase_Sector	32	static
+../Core/Src/FLASH.c:101:6:Convert_To_Str	32	static
+../Core/Src/FLASH.c:120:17:GetSector	24	static
